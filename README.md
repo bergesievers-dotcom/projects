@@ -17,7 +17,7 @@ However, the ties are not evenly distributed.
 For the second plot of part 1, the idea was first to create an adjacency matrix, then convert it to nodes and edges data frames that would help to visualize the data interactively.
 # Plotting an Interactive plot using networkD3
 An Interactive visualization of the Monks Using the networkD3::forceNetwork() function.
-![Image Alt](https://github.com/jameskamau646-debug/project/blob/63478e579a577cb638ca6922d066676295e7d79d/interactive_plot1.png)
+![Image Alt](https://github.com/bergesievers-dotcom/projects/blob/611710e36cd0aeca58545343f725f8cbef2881d2/interactive_plot1.png)
 
 This shows interactive Monks 
 
