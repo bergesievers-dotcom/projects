@@ -1,5 +1,5 @@
 # LAB PROJECT 2: SAMPSON'S MONKS 
-# NAME: 
+# NAME: Berge Sievers
 # Part 0 - Setting Up
 install.packages("lda")
 install.packages("igraph")
@@ -96,4 +96,5 @@ barplot(degree_in2, main = "Number of likes received in in-degree 2", xlab = "ge
 mostliked2<-which.max(degree_in2)
 leastliked2<-which.min(degree_in2)
 mostliked2
+
 leastliked2
