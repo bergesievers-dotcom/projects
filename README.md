@@ -35,7 +35,7 @@ $degree_in
         4         2         2         2         2         2         3 
 $average_
 [1] 1.947368
-![Image Alt](https://github.com/jameskamau646-debug/project/blob/9cbfb1c7732f979dd38a18586b7b71e6525ebce9/barplot1.png)
+![Image Alt](https://github.com/bergesievers-dotcom/projects/blob/ced5c6b21c9d1ece994f9545bdec0cecba8036b7/barplot1.png)
 From the degree analysis, we see that out-degrees are relatively balanced, with most nodes sending ties to 3 or 4 others, suggesting fairly even outward connectivity. 
 However, in-degrees vary more widely, ranging from 1 to 8, indicating that some individuals, for instance, ROMUL_10, BONAVEN_5, are highly popular or central, while others receive few ties. 
 The average degree of 1.9474 highlights a moderately sparse network overall, meaning most nodes are connected to only a small fraction of the group, 
