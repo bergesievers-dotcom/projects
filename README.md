@@ -1,6 +1,6 @@
 # Lab Project 2: Sampson’s Monks
 
-# Name: 
+# Name: Berge Sievers
 
 For part 0 of the project, the task was to install and load the lda, igraph, and networkd3 packages to load the required data. 
 
