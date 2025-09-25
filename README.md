@@ -48,13 +48,13 @@ For this part, a function was written to generate a random socio matrix. In this
 # Part 4 - Comparison: Model vs Observations
 For this part of the question, the idea was to repeat the process that was carried out in part 1. However, we needed to describe the structure of the network that was simulated by the model. This was done by producing the charts shown below to help in the description. 
 # Static Plot for the Randomly Generated Monk
-![Image Alt](https://github.com/jameskamau646-debug/project/blob/3678177de8d6cfff960c795d1cea63a1b8d25c14/Random_network.png)
+![Image Alt](https://github.com/bergesievers-dotcom/projects/blob/4afda88e45e8919ed0c4b4375b53b7c17cec6392/Random_network.png)
 
 # Interactive Plot for the Randomly Generated Monk
-![Image Alt](https://github.com/jameskamau646-debug/project/blob/e913d7a3c164d939f73138590d9829f784001ea4/interactive_plot2.png)
+![Image Alt](https://github.com/bergesievers-dotcom/projects/blob/4afda88e45e8919ed0c4b4375b53b7c17cec6392/interactive_plot2.png)
 
 # BarPlot for the Randomly Generated Monk
-![Image Alt](https://github.com/jameskamau646-debug/project/blob/9cbfb1c7732f979dd38a18586b7b71e6525ebce9/barplot2.png)
+![Image Alt](https://github.com/bergesievers-dotcom/projects/blob/4afda88e45e8919ed0c4b4375b53b7c17cec6392/barplot2.png)
 # The Summary Statistics are as shown below. 
 
 $degree_out2
